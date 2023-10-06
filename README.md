@@ -55,7 +55,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![output](/Web_server/webserver.jpg)
+![Alt text](webserver.jpg)
 
 # RESULT:
 
