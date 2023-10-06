@@ -27,7 +27,8 @@ content = """
 <head>
 <?head>
 <body>
-<h1>Welcome</h1>
+<h1>SUNIL KUMAR T</h1>
+<h1>Artifical intelligence and machine learning</h1>
 </body>
 </html>
 """
@@ -42,9 +43,7 @@ class HelloHandler(BaseHTTPRequestHandler):
   
 server_address = ('', 80)
 httpd = HTTPServer(server_address,HelloHandler)
-httpd.serve_forever()    
-
-
+httpd.serve_forever()
 ## Step 4:
 
 Serving the HTML pages.
