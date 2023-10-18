@@ -25,7 +25,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <html>
 <head>
-<?head>
+</head>
 <body>
 <h1>SUNIL KUMAR T</h1>
 <h1>Artifical intelligence and machine learning</h1>
